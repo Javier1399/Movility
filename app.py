@@ -170,8 +170,8 @@ hr { border-color: #162032 !important; }
 
 # ─── CONSTANTES ────────────────────────────────────────────────────────────────
 RUTAS = {
-    "Atitalaquia": "data/Atitalaquia_urban_analysis_final.gpkg",
-    "Guanajuato":  "data/Guanajuato_urban_analysis_final.gpkg",
+    "Atitalaquia": "Atitalaquia_urban_analysis_final.gpkg",
+    "Guanajuato":  "Guanajuato_urban_analysis_final.gpkg",
 }
 
 # Colores RGB para pydeck por rim_clasificacion
